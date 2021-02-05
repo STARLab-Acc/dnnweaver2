@@ -25,49 +25,6 @@
 #
 #    <none>
 #
-# 3. The following remote source files that were added to the original project:-
-#
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/axi4lite_slave.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/axi_master.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/banked_ram.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/base_addr_gen.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/bbuf.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/bbuf_mem_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mxv/controller.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/controller_fsm.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/decoder.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/dnnweaver2_controller.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/fifo.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/fifo_asymmetric.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/gen_pu.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/gen_pu_ctrl.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/ibuf.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/ibuf_mem_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mxv/instruction_memory.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/ldst_ddr_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mem_walker_stride.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mux_2_1.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mux_n_1.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/obuf.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mxv/obuf_bias_sel_logic.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/obuf_mem_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/pe.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/mxv/performance_monitor.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/pu_alu.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/pu_ld_obuf_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/ram.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/reg_file.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/register_sync.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/register_sync_with_enable.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/signed_adder.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/genarch/pu/simd_pu_core.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/systolic_array.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/tag_logic.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/tag_sync.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/wbuf.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/wbuf_mem_wrapper.v"
-#    "/home/rbshi/workspace/nnarch/dnnweaver2/hardware/rtl/cl_wrapper.v"
-#
 #*****************************************************************************************
 
 # Set the reference directory for source file relative paths (by default the value is script directory path)
